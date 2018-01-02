@@ -1,2 +1,2 @@
-# groovy-scripts
+# groovy-utils
 My Groovy Scripts
